@@ -14,7 +14,7 @@ const connection = new Sequelize(DB_CONFIG.db,DB_CONFIG.user,DB_CONFIG.password,
 
 try{
     await connection.authenticate();
-    console.log('Connection has been estavalçaks successfully');
+    console.log('Connection has been established successfully');
 }catch(error){
     console.error('Unable to connect to the database:',error)
 }
