@@ -1,34 +1,28 @@
 import { DataTypes } from "sequelize"
 
-const produtoModel = (sequelize, Sequelize)=>{
-    const Produto = sequelize.define('produto',{
+export const produtoModel = connection => {
+    const Produto = connection.define('produto',{
         nome:{
             type: DataTypes.STRING,
             allowNull: false
         },
         categoria:{
-            type: DataTypes.STRING,
-            allowNull: false
+            type: DataTypes.STRING
         },
         descricao:{
-            type: DataTypes.INTEGER,
-            allowNull: false
+            type: DataTypes.INTEGER
         },
         desconto:{
-            type: DataTypes.INTEGER,
-            allowNull: false
+            type: DataTypes.INTEGER
         },
         precoAntes:{
-            type: DataTypes.DECIMAL,
-            allowNull: false
+            type: DataTypes.DECIMAL
         },
         precoDepois:{
-            type: DataTypes.DECIMAL,
-            allowNull: false
+            type: DataTypes.DECIMAL
         },
         ativo:{
-            type: DataTypes.BOOLEAN,
-            allowNull: false
+            type: DataTypes.BOOLEAN
         },
         
     })
