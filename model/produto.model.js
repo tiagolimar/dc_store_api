@@ -10,7 +10,7 @@ export const produtoModel = connection => {
             type: DataTypes.STRING
         },
         descricao:{
-            type: DataTypes.INTEGER
+            type: DataTypes.STRING
         },
         desconto:{
             type: DataTypes.INTEGER
