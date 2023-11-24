@@ -9,7 +9,6 @@ export const produtoController = {
                 message:"Name must no void"
             })
         }
-
         const produto = request.body;
         Produto.create(produto)
         .then(data=>{
@@ -19,8 +18,25 @@ export const produtoController = {
             response.status(500).send({message : e.message || "Can't save product."});
         })
     },
-    findAll: (request,response)=>{},
-    findById: (request,response)=>{},
+    findAll: (request,response)=>{
+        Produto.findAll()
+        .then(data=>{
+            response.send(data);
+        })
+        .catch(e=>{
+            response.status(500).send({message : e.message || "Can't get products."});
+        })
+    },
+    findById: (request,response)=>{
+        const id = request.params.id
+        Produto.findByPk(id)
+        .then(data=>{
+            response.send(data);
+        })
+        .catch(e=>{
+            response.status(500).send({message : e.message || `Can't get product ${id}.`});
+        })
+    },
     findByStatus: (request,response)=>{},
     update: (request,response)=>{},
     deleteById: (request,response)=>{},

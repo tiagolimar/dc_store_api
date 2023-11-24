@@ -7,7 +7,7 @@ export const routeProduto = ()=>{
 
     router.post('/produto', produtoController.create)
     router.get('/produtos', produtoController.findAll)
-    router.get('/produto:id', produtoController.findById)
+    router.get('/produto/:id', produtoController.findById)
     router.get('/produtos:status', produtoController.findByStatus)
     router.put('/produto:id', produtoController.update)
     router.delete('/produto:id', produtoController.deleteById)
