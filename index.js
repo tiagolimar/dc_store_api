@@ -7,7 +7,7 @@ export const app = express();
 app.use(express.json());
 app.use(express.urlencoded({extended:true}))
 
-db.connection.sync({force:true})
+db.connection.sync()
 .then(()=>{
     console.log("Drop and re-sync db.");
 })

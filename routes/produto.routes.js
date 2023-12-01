@@ -6,11 +6,12 @@ export const routeProduto = ()=>{
     const router = express.Router();
 
     router.post('/produto', produtoController.create)
+    router.post('/produtos', produtoController.createAll)
     router.get('/produtos', produtoController.findAll)
-    router.get('/produto/:id', produtoController.findById)
-    router.get('/produtos:status', produtoController.findByStatus)
-    router.put('/produto:id', produtoController.update)
-    router.delete('/produto:id', produtoController.deleteById)
+    router.get('/produto/id/:id', produtoController.findById)
+    router.get('/produtos/status/:status', produtoController.findByStatus)
+    router.patch('/produto/id/:id', produtoController.update)
+    router.delete('/produto/id/:id', produtoController.deleteById)
     router.delete('/produtos', produtoController.deleteALL)
 
     app.use('/api',router)
