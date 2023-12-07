@@ -77,6 +77,8 @@ export const produtoController = {
         const produto = request.body;
 
         const produtoBd = await Produto.findByPk(id);
+
+        
         if (produtoBd) {
             produtoBd.update(produto)
             .then(data=>{
