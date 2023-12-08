@@ -22,8 +22,8 @@ app.get('/',(request,response)=>{
 
 routeProduto(app)
 
-const host = 'localhost'
-const port = 5000
+const host = process.env.HOST || 'localhost';
+const port = 5000;
 
 
 app.listen(port,()=>{
