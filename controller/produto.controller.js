@@ -50,7 +50,7 @@ export const produtoController = {
 
     findById: (request,response)=>{
         const id = request.params.id
-        Produto.findByPk(id)
+        Produto.findByPk(+id)
         .then(data=>{
             response.send(data);
         })
