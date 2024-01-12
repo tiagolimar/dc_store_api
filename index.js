@@ -1,11 +1,13 @@
 import express from 'express';
 import db from './model/index.js';
 import { routeProduto } from './routes/produto.routes.js';
+import cors from "cors";
 
 export const app = express();
 
 app.use(express.json());
 app.use(express.urlencoded({extended:true}))
+app.use(cors())
 
 db.connection.sync()
 .then(()=>{
