@@ -1,10 +1,10 @@
 import 'dotenv/config';
 
 export const DB_CONFIG = {
-    host: process.env.HOST,
-    port: process.env.PORT,
-    user: process.env.USER,
-    password: process.env.PASSWORD,
-    db: process.env.DB,
-    dialect: process.env.DIALECT,
+    host: process.env.PGHOST,
+    port: process.env.PGPORT,
+    user: process.env.PGUSER,
+    password: process.env.PGPASSWORD,
+    db: process.env.PGDATABASE,
+    dialect: process.env.PGDIALECT,
 }

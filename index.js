@@ -24,7 +24,7 @@ app.get('/',(request,response)=>{
 
 routeProduto(app)
 
-const host = process.env.HOST || 'localhost';
+const host = process.env.PGHOST || 'localhost';
 const port = 5000;
 
 
