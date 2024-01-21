@@ -1,0 +1,2252 @@
+[
+    {
+        "nome": "Nike NebulaNavigate F",
+        "categoria": "Esporte e lazer",
+        "descricao": "Calçado esporte e lazer da marca Nike, modelo NebulaNavigate, versão feminina.",
+        "desconto": 20,
+        "precoAntes": 950,
+        "precoDepois": 760.0,
+        "ativo": true
+    },
+    {
+        "nome": "Nike MirageMover M",
+        "categoria": "Esporte e lazer",
+        "descricao": "Calçado esporte e lazer da marca Nike, modelo MirageMover, versão masculina.",
+        "desconto": 25,
+        "precoAntes": 950,
+        "precoDepois": 712.5,
+        "ativo": true
+    },
+    {
+        "nome": "Kichute CobaltCruise F",
+        "categoria": "Esporte e lazer",
+        "descricao": "Calçado esporte e lazer da marca Kichute, modelo CobaltCruise, versão feminina.",
+        "desconto": 40,
+        "precoAntes": 275,
+        "precoDepois": 165.0,
+        "ativo": true
+    },
+    {
+        "nome": "Nike TerraBound F",
+        "categoria": "Utilitário",
+        "descricao": "Calçado utilitário da marca Nike, modelo TerraBound, versão feminina.",
+        "desconto": 20,
+        "precoAntes": 850,
+        "precoDepois": 680.0,
+        "ativo": true
+    },
+    {
+        "nome": "Kichute PegasusFlyer U",
+        "categoria": "Utilitário",
+        "descricao": "Calçado utilitário da marca Kichute, modelo PegasusFlyer, versão unisex.",
+        "desconto": 5,
+        "precoAntes": 575,
+        "precoDepois": 546.25,
+        "ativo": true
+    },
+    {
+        "nome": "K-Swiss BlazeBound M",
+        "categoria": "Esporte e lazer",
+        "descricao": "Calçado esporte e lazer da marca K-Swiss, modelo BlazeBound, versão masculina.",
+        "desconto": 35,
+        "precoAntes": 225,
+        "precoDepois": 146.25,
+        "ativo": true
+    },
+    {
+        "nome": "Adiddas BreezeBound U",
+        "categoria": "Esporte e lazer",
+        "descricao": "Calçado esporte e lazer da marca Adiddas, modelo BreezeBound, versão unisex.",
+        "desconto": 40,
+        "precoAntes": 375,
+        "precoDepois": 225.0,
+        "ativo": false
+    },
+    {
+        "nome": "K-Swiss ApexAmble U",
+        "categoria": "Esporte e lazer",
+        "descricao": "Calçado esporte e lazer da marca K-Swiss, modelo ApexAmble, versão unisex.",
+        "desconto": 30,
+        "precoAntes": 400,
+        "precoDepois": 280.0,
+        "ativo": true
+    },
+    {
+        "nome": "Nike NatureTrek F",
+        "categoria": "Esporte e lazer",
+        "descricao": "Calçado esporte e lazer da marca Nike, modelo NatureTrek, versão feminina.",
+        "desconto": 20,
+        "precoAntes": 1050,
+        "precoDepois": 840.0,
+        "ativo": true
+    },
+    {
+        "nome": "K-Swiss RapidDash M",
+        "categoria": "Casual",
+        "descricao": "Calçado casual da marca K-Swiss, modelo RapidDash, versão masculina.",
+        "desconto": 5,
+        "precoAntes": 525,
+        "precoDepois": 498.75,
+        "ativo": true
+    },
+    {
+        "nome": "Adiddas MatrixMarch M",
+        "categoria": "Esporte e lazer",
+        "descricao": "Calçado esporte e lazer da marca Adiddas, modelo MatrixMarch, versão masculina.",
+        "desconto": 25,
+        "precoAntes": 825,
+        "precoDepois": 618.75,
+        "ativo": true
+    },
+    {
+        "nome": "Kichute InfinityInch M",
+        "categoria": "Casual",
+        "descricao": "Calçado casual da marca Kichute, modelo InfinityInch, versão masculina.",
+        "desconto": 10,
+        "precoAntes": 250,
+        "precoDepois": 225.0,
+        "ativo": true
+    },
+    {
+        "nome": "K-Swiss PhantomPace U",
+        "categoria": "Casual",
+        "descricao": "Calçado casual da marca K-Swiss, modelo PhantomPace, versão unisex.",
+        "desconto": 0,
+        "precoAntes": 300,
+        "precoDepois": 300.0,
+        "ativo": true
+    },
+    {
+        "nome": "Kichute RadiantRamble F",
+        "categoria": "Utilitário",
+        "descricao": "Calçado utilitário da marca Kichute, modelo RadiantRamble, versão feminina.",
+        "desconto": 20,
+        "precoAntes": 925,
+        "precoDepois": 740.0,
+        "ativo": false
+    },
+    {
+        "nome": "Adiddas RebelRoam U",
+        "categoria": "Esporte e lazer",
+        "descricao": "Calçado esporte e lazer da marca Adiddas, modelo RebelRoam, versão unisex.",
+        "desconto": 30,
+        "precoAntes": 950,
+        "precoDepois": 665.0,
+        "ativo": true
+    },
+    {
+        "nome": "Nike RapidDash U",
+        "categoria": "Esporte e lazer",
+        "descricao": "Calçado esporte e lazer da marca Nike, modelo RapidDash, versão unisex.",
+        "desconto": 35,
+        "precoAntes": 425,
+        "precoDepois": 276.25,
+        "ativo": true
+    },
+    {
+        "nome": "Kichute LunarLeap F",
+        "categoria": "Casual",
+        "descricao": "Calçado casual da marca Kichute, modelo LunarLeap, versão feminina.",
+        "desconto": 10,
+        "precoAntes": 550,
+        "precoDepois": 495.0,
+        "ativo": false
+    },
+    {
+        "nome": "K-Swiss TerraBound U",
+        "categoria": "Casual",
+        "descricao": "Calçado casual da marca K-Swiss, modelo TerraBound, versão unisex.",
+        "desconto": 10,
+        "precoAntes": 375,
+        "precoDepois": 337.5,
+        "ativo": true
+    },
+    {
+        "nome": "Puma HorizonHike F",
+        "categoria": "Utilitário",
+        "descricao": "Calçado utilitário da marca Puma, modelo HorizonHike, versão feminina.",
+        "desconto": 25,
+        "precoAntes": 1125,
+        "precoDepois": 843.75,
+        "ativo": true
+    },
+    {
+        "nome": "Adiddas InfinityInch F",
+        "categoria": "Esporte e lazer",
+        "descricao": "Calçado esporte e lazer da marca Adiddas, modelo InfinityInch, versão feminina.",
+        "desconto": 35,
+        "precoAntes": 650,
+        "precoDepois": 422.5,
+        "ativo": true
+    },
+    {
+        "nome": "K-Swiss GalaxyGait M",
+        "categoria": "Esporte e lazer",
+        "descricao": "Calçado esporte e lazer da marca K-Swiss, modelo GalaxyGait, versão masculina.",
+        "desconto": 0,
+        "precoAntes": 750,
+        "precoDepois": 750.0,
+        "ativo": false
+    },
+    {
+        "nome": "K-Swiss DreamDrift U",
+        "categoria": "Casual",
+        "descricao": "Calçado casual da marca K-Swiss, modelo DreamDrift, versão unisex.",
+        "desconto": 25,
+        "precoAntes": 775,
+        "precoDepois": 581.25,
+        "ativo": false
+    },
+    {
+        "nome": "K-Swiss LunarLeap U",
+        "categoria": "Utilitário",
+        "descricao": "Calçado utilitário da marca K-Swiss, modelo LunarLeap, versão unisex.",
+        "desconto": 40,
+        "precoAntes": 1000,
+        "precoDepois": 600.0,
+        "ativo": true
+    },
+    {
+        "nome": "Kichute CometCruise U",
+        "categoria": "Esporte e lazer",
+        "descricao": "Calçado esporte e lazer da marca Kichute, modelo CometCruise, versão unisex.",
+        "desconto": 10,
+        "precoAntes": 1100,
+        "precoDepois": 990.0,
+        "ativo": false
+    },
+    {
+        "nome": "Nike AeroAmble F",
+        "categoria": "Esporte e lazer",
+        "descricao": "Calçado esporte e lazer da marca Nike, modelo AeroAmble, versão feminina.",
+        "desconto": 30,
+        "precoAntes": 400,
+        "precoDepois": 280.0,
+        "ativo": true
+    },
+    {
+        "nome": "Nike ThunderThrust F",
+        "categoria": "Casual",
+        "descricao": "Calçado casual da marca Nike, modelo ThunderThrust, versão feminina.",
+        "desconto": 30,
+        "precoAntes": 750,
+        "precoDepois": 525.0,
+        "ativo": true
+    },
+    {
+        "nome": "K-Swiss VelvetJump M",
+        "categoria": "Utilitário",
+        "descricao": "Calçado utilitário da marca K-Swiss, modelo VelvetJump, versão masculina.",
+        "desconto": 10,
+        "precoAntes": 875,
+        "precoDepois": 787.5,
+        "ativo": true
+    },
+    {
+        "nome": "Adiddas SolarSprint M",
+        "categoria": "Corrida",
+        "descricao": "Calçado corrida da marca Adiddas, modelo SolarSprint, versão masculina.",
+        "desconto": 35,
+        "precoAntes": 850,
+        "precoDepois": 552.5,
+        "ativo": false
+    },
+    {
+        "nome": "Adiddas SummitCrest M",
+        "categoria": "Casual",
+        "descricao": "Calçado casual da marca Adiddas, modelo SummitCrest, versão masculina.",
+        "desconto": 30,
+        "precoAntes": 675,
+        "precoDepois": 472.5,
+        "ativo": true
+    },
+    {
+        "nome": "Puma MirageMover F",
+        "categoria": "Esporte e lazer",
+        "descricao": "Calçado esporte e lazer da marca Puma, modelo MirageMover, versão feminina.",
+        "desconto": 0,
+        "precoAntes": 1175,
+        "precoDepois": 1175.0,
+        "ativo": false
+    },
+    {
+        "nome": "Adiddas EliteGlide F",
+        "categoria": "Corrida",
+        "descricao": "Calçado corrida da marca Adiddas, modelo EliteGlide, versão feminina.",
+        "desconto": 30,
+        "precoAntes": 975,
+        "precoDepois": 682.5,
+        "ativo": true
+    },
+    {
+        "nome": "Puma GravityGlide U",
+        "categoria": "Utilitário",
+        "descricao": "Calçado utilitário da marca Puma, modelo GravityGlide, versão unisex.",
+        "desconto": 25,
+        "precoAntes": 250,
+        "precoDepois": 187.5,
+        "ativo": true
+    },
+    {
+        "nome": "Puma BreezeBound F",
+        "categoria": "Casual",
+        "descricao": "Calçado casual da marca Puma, modelo BreezeBound, versão feminina.",
+        "desconto": 30,
+        "precoAntes": 550,
+        "precoDepois": 385.0,
+        "ativo": true
+    },
+    {
+        "nome": "Puma SummitCrest M",
+        "categoria": "Casual",
+        "descricao": "Calçado casual da marca Puma, modelo SummitCrest, versão masculina.",
+        "desconto": 10,
+        "precoAntes": 400,
+        "precoDepois": 360.0,
+        "ativo": false
+    },
+    {
+        "nome": "Nike AquaMover U",
+        "categoria": "Casual",
+        "descricao": "Calçado casual da marca Nike, modelo AquaMover, versão unisex.",
+        "desconto": 0,
+        "precoAntes": 425,
+        "precoDepois": 425.0,
+        "ativo": true
+    },
+    {
+        "nome": "Puma SummitCrest U",
+        "categoria": "Casual",
+        "descricao": "Calçado casual da marca Puma, modelo SummitCrest, versão unisex.",
+        "desconto": 15,
+        "precoAntes": 1150,
+        "precoDepois": 977.5,
+        "ativo": true
+    },
+    {
+        "nome": "Puma BreezeBound U",
+        "categoria": "Corrida",
+        "descricao": "Calçado corrida da marca Puma, modelo BreezeBound, versão unisex.",
+        "desconto": 35,
+        "precoAntes": 550,
+        "precoDepois": 357.5,
+        "ativo": false
+    },
+    {
+        "nome": "Adiddas MirageMover F",
+        "categoria": "Utilitário",
+        "descricao": "Calçado utilitário da marca Adiddas, modelo MirageMover, versão feminina.",
+        "desconto": 0,
+        "precoAntes": 1150,
+        "precoDepois": 1150.0,
+        "ativo": true
+    },
+    {
+        "nome": "Nike PulsePath M",
+        "categoria": "Corrida",
+        "descricao": "Calçado corrida da marca Nike, modelo PulsePath, versão masculina.",
+        "desconto": 20,
+        "precoAntes": 600,
+        "precoDepois": 480.0,
+        "ativo": false
+    },
+    {
+        "nome": "K-Swiss IronInch U",
+        "categoria": "Esporte e lazer",
+        "descricao": "Calçado esporte e lazer da marca K-Swiss, modelo IronInch, versão unisex.",
+        "desconto": 20,
+        "precoAntes": 1075,
+        "precoDepois": 860.0,
+        "ativo": false
+    },
+    {
+        "nome": "K-Swiss VortexVoyage M",
+        "categoria": "Utilitário",
+        "descricao": "Calçado utilitário da marca K-Swiss, modelo VortexVoyage, versão masculina.",
+        "desconto": 5,
+        "precoAntes": 525,
+        "precoDepois": 498.75,
+        "ativo": false
+    },
+    {
+        "nome": "Puma SummitCrest F",
+        "categoria": "Utilitário",
+        "descricao": "Calçado utilitário da marca Puma, modelo SummitCrest, versão feminina.",
+        "desconto": 20,
+        "precoAntes": 1100,
+        "precoDepois": 880.0,
+        "ativo": true
+    },
+    {
+        "nome": "Puma CometCruise U",
+        "categoria": "Casual",
+        "descricao": "Calçado casual da marca Puma, modelo CometCruise, versão unisex.",
+        "desconto": 40,
+        "precoAntes": 500,
+        "precoDepois": 300.0,
+        "ativo": true
+    },
+    {
+        "nome": "Kichute LunarLeap M",
+        "categoria": "Esporte e lazer",
+        "descricao": "Calçado esporte e lazer da marca Kichute, modelo LunarLeap, versão masculina.",
+        "desconto": 20,
+        "precoAntes": 250,
+        "precoDepois": 200.0,
+        "ativo": true
+    },
+    {
+        "nome": "Kichute BlazeBound U",
+        "categoria": "Corrida",
+        "descricao": "Calçado corrida da marca Kichute, modelo BlazeBound, versão unisex.",
+        "desconto": 30,
+        "precoAntes": 150,
+        "precoDepois": 105.0,
+        "ativo": true
+    },
+    {
+        "nome": "Kichute SolarSprint F",
+        "categoria": "Utilitário",
+        "descricao": "Calçado utilitário da marca Kichute, modelo SolarSprint, versão feminina.",
+        "desconto": 0,
+        "precoAntes": 750,
+        "precoDepois": 750.0,
+        "ativo": false
+    },
+    {
+        "nome": "Adiddas UrbanStride U",
+        "categoria": "Casual",
+        "descricao": "Calçado casual da marca Adiddas, modelo UrbanStride, versão unisex.",
+        "desconto": 0,
+        "precoAntes": 650,
+        "precoDepois": 650.0,
+        "ativo": true
+    },
+    {
+        "nome": "Nike PulsePath U",
+        "categoria": "Esporte e lazer",
+        "descricao": "Calçado esporte e lazer da marca Nike, modelo PulsePath, versão unisex.",
+        "desconto": 5,
+        "precoAntes": 925,
+        "precoDepois": 878.75,
+        "ativo": true
+    },
+    {
+        "nome": "K-Swiss NatureTrek U",
+        "categoria": "Esporte e lazer",
+        "descricao": "Calçado esporte e lazer da marca K-Swiss, modelo NatureTrek, versão unisex.",
+        "desconto": 20,
+        "precoAntes": 1150,
+        "precoDepois": 920.0,
+        "ativo": true
+    },
+    {
+        "nome": "K-Swiss CosmosCruise F",
+        "categoria": "Utilitário",
+        "descricao": "Calçado utilitário da marca K-Swiss, modelo CosmosCruise, versão feminina.",
+        "desconto": 25,
+        "precoAntes": 650,
+        "precoDepois": 487.5,
+        "ativo": true
+    },
+    {
+        "nome": "K-Swiss SpiritStride U",
+        "categoria": "Esporte e lazer",
+        "descricao": "Calçado esporte e lazer da marca K-Swiss, modelo SpiritStride, versão unisex.",
+        "desconto": 25,
+        "precoAntes": 675,
+        "precoDepois": 506.25,
+        "ativo": true
+    },
+    {
+        "nome": "Puma SerenityStep M",
+        "categoria": "Corrida",
+        "descricao": "Calçado corrida da marca Puma, modelo SerenityStep, versão masculina.",
+        "desconto": 35,
+        "precoAntes": 1100,
+        "precoDepois": 715.0,
+        "ativo": false
+    },
+    {
+        "nome": "Kichute TwilightTrot M",
+        "categoria": "Esporte e lazer",
+        "descricao": "Calçado esporte e lazer da marca Kichute, modelo TwilightTrot, versão masculina.",
+        "desconto": 30,
+        "precoAntes": 250,
+        "precoDepois": 175.0,
+        "ativo": true
+    },
+    {
+        "nome": "K-Swiss ZenStride F",
+        "categoria": "Esporte e lazer",
+        "descricao": "Calçado esporte e lazer da marca K-Swiss, modelo ZenStride, versão feminina.",
+        "desconto": 10,
+        "precoAntes": 1150,
+        "precoDepois": 1035.0,
+        "ativo": true
+    },
+    {
+        "nome": "Kichute TerraBound U",
+        "categoria": "Corrida",
+        "descricao": "Calçado corrida da marca Kichute, modelo TerraBound, versão unisex.",
+        "desconto": 25,
+        "precoAntes": 800,
+        "precoDepois": 600.0,
+        "ativo": false
+    },
+    {
+        "nome": "Nike LunarLeap U",
+        "categoria": "Casual",
+        "descricao": "Calçado casual da marca Nike, modelo LunarLeap, versão unisex.",
+        "desconto": 5,
+        "precoAntes": 400,
+        "precoDepois": 380.0,
+        "ativo": false
+    },
+    {
+        "nome": "Adiddas BlazeBound F",
+        "categoria": "Casual",
+        "descricao": "Calçado casual da marca Adiddas, modelo BlazeBound, versão feminina.",
+        "desconto": 35,
+        "precoAntes": 950,
+        "precoDepois": 617.5,
+        "ativo": true
+    },
+    {
+        "nome": "Kichute AquaMover M",
+        "categoria": "Utilitário",
+        "descricao": "Calçado utilitário da marca Kichute, modelo AquaMover, versão masculina.",
+        "desconto": 30,
+        "precoAntes": 250,
+        "precoDepois": 175.0,
+        "ativo": true
+    },
+    {
+        "nome": "Puma RhythmRover U",
+        "categoria": "Corrida",
+        "descricao": "Calçado corrida da marca Puma, modelo RhythmRover, versão unisex.",
+        "desconto": 30,
+        "precoAntes": 875,
+        "precoDepois": 612.5,
+        "ativo": false
+    },
+    {
+        "nome": "Puma MirageMover F",
+        "categoria": "Utilitário",
+        "descricao": "Calçado utilitário da marca Puma, modelo MirageMover, versão feminina.",
+        "desconto": 15,
+        "precoAntes": 925,
+        "precoDepois": 786.25,
+        "ativo": false
+    },
+    {
+        "nome": "K-Swiss NebulaNavigate M",
+        "categoria": "Utilitário",
+        "descricao": "Calçado utilitário da marca K-Swiss, modelo NebulaNavigate, versão masculina.",
+        "desconto": 35,
+        "precoAntes": 475,
+        "precoDepois": 308.75,
+        "ativo": true
+    },
+    {
+        "nome": "K-Swiss NovaNavigate M",
+        "categoria": "Esporte e lazer",
+        "descricao": "Calçado esporte e lazer da marca K-Swiss, modelo NovaNavigate, versão masculina.",
+        "desconto": 35,
+        "precoAntes": 250,
+        "precoDepois": 162.5,
+        "ativo": true
+    },
+    {
+        "nome": "Kichute OceanGlide U",
+        "categoria": "Corrida",
+        "descricao": "Calçado corrida da marca Kichute, modelo OceanGlide, versão unisex.",
+        "desconto": 20,
+        "precoAntes": 725,
+        "precoDepois": 580.0,
+        "ativo": true
+    },
+    {
+        "nome": "Kichute SummitCrest U",
+        "categoria": "Esporte e lazer",
+        "descricao": "Calçado esporte e lazer da marca Kichute, modelo SummitCrest, versão unisex.",
+        "desconto": 35,
+        "precoAntes": 200,
+        "precoDepois": 130.0,
+        "ativo": true
+    },
+    {
+        "nome": "Adiddas SlickStep U",
+        "categoria": "Casual",
+        "descricao": "Calçado casual da marca Adiddas, modelo SlickStep, versão unisex.",
+        "desconto": 35,
+        "precoAntes": 800,
+        "precoDepois": 520.0,
+        "ativo": false
+    },
+    {
+        "nome": "Nike MysticMove F",
+        "categoria": "Casual",
+        "descricao": "Calçado casual da marca Nike, modelo MysticMove, versão feminina.",
+        "desconto": 5,
+        "precoAntes": 450,
+        "precoDepois": 427.5,
+        "ativo": true
+    },
+    {
+        "nome": "Nike MysticMove F",
+        "categoria": "Esporte e lazer",
+        "descricao": "Calçado esporte e lazer da marca Nike, modelo MysticMove, versão feminina.",
+        "desconto": 20,
+        "precoAntes": 525,
+        "precoDepois": 420.0,
+        "ativo": true
+    },
+    {
+        "nome": "Kichute OceanGlide U",
+        "categoria": "Utilitário",
+        "descricao": "Calçado utilitário da marca Kichute, modelo OceanGlide, versão unisex.",
+        "desconto": 5,
+        "precoAntes": 250,
+        "precoDepois": 237.5,
+        "ativo": false
+    },
+    {
+        "nome": "K-Swiss TwilightTrot U",
+        "categoria": "Esporte e lazer",
+        "descricao": "Calçado esporte e lazer da marca K-Swiss, modelo TwilightTrot, versão unisex.",
+        "desconto": 25,
+        "precoAntes": 700,
+        "precoDepois": 525.0,
+        "ativo": false
+    },
+    {
+        "nome": "Nike InfinityInch U",
+        "categoria": "Corrida",
+        "descricao": "Calçado corrida da marca Nike, modelo InfinityInch, versão unisex.",
+        "desconto": 25,
+        "precoAntes": 925,
+        "precoDepois": 693.75,
+        "ativo": true
+    },
+    {
+        "nome": "K-Swiss BlazeBound U",
+        "categoria": "Utilitário",
+        "descricao": "Calçado utilitário da marca K-Swiss, modelo BlazeBound, versão unisex.",
+        "desconto": 15,
+        "precoAntes": 1150,
+        "precoDepois": 977.5,
+        "ativo": true
+    },
+    {
+        "nome": "Adiddas TwilightTrot F",
+        "categoria": "Esporte e lazer",
+        "descricao": "Calçado esporte e lazer da marca Adiddas, modelo TwilightTrot, versão feminina.",
+        "desconto": 30,
+        "precoAntes": 975,
+        "precoDepois": 682.5,
+        "ativo": true
+    },
+    {
+        "nome": "Kichute ThunderThrust F",
+        "categoria": "Utilitário",
+        "descricao": "Calçado utilitário da marca Kichute, modelo ThunderThrust, versão feminina.",
+        "desconto": 15,
+        "precoAntes": 975,
+        "precoDepois": 828.75,
+        "ativo": true
+    },
+    {
+        "nome": "Puma ZephyrZoom U",
+        "categoria": "Corrida",
+        "descricao": "Calçado corrida da marca Puma, modelo ZephyrZoom, versão unisex.",
+        "desconto": 10,
+        "precoAntes": 1050,
+        "precoDepois": 945.0,
+        "ativo": true
+    },
+    {
+        "nome": "K-Swiss PhantomPace U",
+        "categoria": "Corrida",
+        "descricao": "Calçado corrida da marca K-Swiss, modelo PhantomPace, versão unisex.",
+        "desconto": 40,
+        "precoAntes": 750,
+        "precoDepois": 450.0,
+        "ativo": false
+    },
+    {
+        "nome": "Kichute EliteGlide F",
+        "categoria": "Casual",
+        "descricao": "Calçado casual da marca Kichute, modelo EliteGlide, versão feminina.",
+        "desconto": 30,
+        "precoAntes": 850,
+        "precoDepois": 595.0,
+        "ativo": true
+    },
+    {
+        "nome": "Puma ThunderThrust M",
+        "categoria": "Esporte e lazer",
+        "descricao": "Calçado esporte e lazer da marca Puma, modelo ThunderThrust, versão masculina.",
+        "desconto": 40,
+        "precoAntes": 950,
+        "precoDepois": 570.0,
+        "ativo": false
+    },
+    {
+        "nome": "K-Swiss BlazeBound F",
+        "categoria": "Esporte e lazer",
+        "descricao": "Calçado esporte e lazer da marca K-Swiss, modelo BlazeBound, versão feminina.",
+        "desconto": 15,
+        "precoAntes": 500,
+        "precoDepois": 425.0,
+        "ativo": false
+    },
+    {
+        "nome": "Kichute RebelRoam M",
+        "categoria": "Esporte e lazer",
+        "descricao": "Calçado esporte e lazer da marca Kichute, modelo RebelRoam, versão masculina.",
+        "desconto": 20,
+        "precoAntes": 300,
+        "precoDepois": 240.0,
+        "ativo": true
+    },
+    {
+        "nome": "Adiddas OceanGlide M",
+        "categoria": "Casual",
+        "descricao": "Calçado casual da marca Adiddas, modelo OceanGlide, versão masculina.",
+        "desconto": 10,
+        "precoAntes": 250,
+        "precoDepois": 225.0,
+        "ativo": false
+    },
+    {
+        "nome": "K-Swiss OceanGlide M",
+        "categoria": "Corrida",
+        "descricao": "Calçado corrida da marca K-Swiss, modelo OceanGlide, versão masculina.",
+        "desconto": 40,
+        "precoAntes": 1050,
+        "precoDepois": 630.0,
+        "ativo": true
+    },
+    {
+        "nome": "K-Swiss IronInch M",
+        "categoria": "Casual",
+        "descricao": "Calçado casual da marca K-Swiss, modelo IronInch, versão masculina.",
+        "desconto": 15,
+        "precoAntes": 350,
+        "precoDepois": 297.5,
+        "ativo": true
+    },
+    {
+        "nome": "Kichute CometCruise F",
+        "categoria": "Corrida",
+        "descricao": "Calçado corrida da marca Kichute, modelo CometCruise, versão feminina.",
+        "desconto": 20,
+        "precoAntes": 375,
+        "precoDepois": 300.0,
+        "ativo": true
+    },
+    {
+        "nome": "Kichute MysticMove M",
+        "categoria": "Utilitário",
+        "descricao": "Calçado utilitário da marca Kichute, modelo MysticMove, versão masculina.",
+        "desconto": 10,
+        "precoAntes": 825,
+        "precoDepois": 742.5,
+        "ativo": true
+    },
+    {
+        "nome": "Adiddas SparkSprint U",
+        "categoria": "Casual",
+        "descricao": "Calçado casual da marca Adiddas, modelo SparkSprint, versão unisex.",
+        "desconto": 15,
+        "precoAntes": 1150,
+        "precoDepois": 977.5,
+        "ativo": false
+    },
+    {
+        "nome": "Adiddas ZenStride U",
+        "categoria": "Corrida",
+        "descricao": "Calçado corrida da marca Adiddas, modelo ZenStride, versão unisex.",
+        "desconto": 10,
+        "precoAntes": 725,
+        "precoDepois": 652.5,
+        "ativo": true
+    },
+    {
+        "nome": "K-Swiss GravityGlide F",
+        "categoria": "Esporte e lazer",
+        "descricao": "Calçado esporte e lazer da marca K-Swiss, modelo GravityGlide, versão feminina.",
+        "desconto": 40,
+        "precoAntes": 650,
+        "precoDepois": 390.0,
+        "ativo": false
+    },
+    {
+        "nome": "Adiddas CosmosCruise U",
+        "categoria": "Esporte e lazer",
+        "descricao": "Calçado esporte e lazer da marca Adiddas, modelo CosmosCruise, versão unisex.",
+        "desconto": 35,
+        "precoAntes": 275,
+        "precoDepois": 178.75,
+        "ativo": true
+    },
+    {
+        "nome": "Kichute MirageMover M",
+        "categoria": "Esporte e lazer",
+        "descricao": "Calçado esporte e lazer da marca Kichute, modelo MirageMover, versão masculina.",
+        "desconto": 10,
+        "precoAntes": 450,
+        "precoDepois": 405.0,
+        "ativo": true
+    },
+    {
+        "nome": "K-Swiss AquaMover F",
+        "categoria": "Esporte e lazer",
+        "descricao": "Calçado esporte e lazer da marca K-Swiss, modelo AquaMover, versão feminina.",
+        "desconto": 30,
+        "precoAntes": 1025,
+        "precoDepois": 717.5,
+        "ativo": true
+    },
+    {
+        "nome": "Adiddas ZenStride F",
+        "categoria": "Utilitário",
+        "descricao": "Calçado utilitário da marca Adiddas, modelo ZenStride, versão feminina.",
+        "desconto": 20,
+        "precoAntes": 1175,
+        "precoDepois": 940.0,
+        "ativo": true
+    },
+    {
+        "nome": "Puma AquaMover F",
+        "categoria": "Esporte e lazer",
+        "descricao": "Calçado esporte e lazer da marca Puma, modelo AquaMover, versão feminina.",
+        "desconto": 40,
+        "precoAntes": 825,
+        "precoDepois": 495.0,
+        "ativo": true
+    },
+    {
+        "nome": "K-Swiss NebulaNavigate U",
+        "categoria": "Casual",
+        "descricao": "Calçado casual da marca K-Swiss, modelo NebulaNavigate, versão unisex.",
+        "desconto": 5,
+        "precoAntes": 650,
+        "precoDepois": 617.5,
+        "ativo": true
+    },
+    {
+        "nome": "Puma MysticMove F",
+        "categoria": "Corrida",
+        "descricao": "Calçado corrida da marca Puma, modelo MysticMove, versão feminina.",
+        "desconto": 35,
+        "precoAntes": 375,
+        "precoDepois": 243.75,
+        "ativo": true
+    },
+    {
+        "nome": "Puma NebulaNavigate F",
+        "categoria": "Corrida",
+        "descricao": "Calçado corrida da marca Puma, modelo NebulaNavigate, versão feminina.",
+        "desconto": 0,
+        "precoAntes": 425,
+        "precoDepois": 425.0,
+        "ativo": false
+    },
+    {
+        "nome": "Adiddas MysticMove M",
+        "categoria": "Esporte e lazer",
+        "descricao": "Calçado esporte e lazer da marca Adiddas, modelo MysticMove, versão masculina.",
+        "desconto": 15,
+        "precoAntes": 150,
+        "precoDepois": 127.5,
+        "ativo": false
+    },
+    {
+        "nome": "Kichute RadiantRamble U",
+        "categoria": "Esporte e lazer",
+        "descricao": "Calçado esporte e lazer da marca Kichute, modelo RadiantRamble, versão unisex.",
+        "desconto": 0,
+        "precoAntes": 575,
+        "precoDepois": 575.0,
+        "ativo": false
+    },
+    {
+        "nome": "Adiddas CometCruise M",
+        "categoria": "Casual",
+        "descricao": "Calçado casual da marca Adiddas, modelo CometCruise, versão masculina.",
+        "desconto": 40,
+        "precoAntes": 600,
+        "precoDepois": 360.0,
+        "ativo": true
+    },
+    {
+        "nome": "Kichute DreamDrift F",
+        "categoria": "Utilitário",
+        "descricao": "Calçado utilitário da marca Kichute, modelo DreamDrift, versão feminina.",
+        "desconto": 0,
+        "precoAntes": 375,
+        "precoDepois": 375.0,
+        "ativo": true
+    },
+    {
+        "nome": "Puma InfinityInch U",
+        "categoria": "Esporte e lazer",
+        "descricao": "Calçado esporte e lazer da marca Puma, modelo InfinityInch, versão unisex.",
+        "desconto": 10,
+        "precoAntes": 600,
+        "precoDepois": 540.0,
+        "ativo": true
+    },
+    {
+        "nome": "Puma ApexAmble M",
+        "categoria": "Esporte e lazer",
+        "descricao": "Calçado esporte e lazer da marca Puma, modelo ApexAmble, versão masculina.",
+        "desconto": 20,
+        "precoAntes": 1050,
+        "precoDepois": 840.0,
+        "ativo": false
+    },
+    {
+        "nome": "K-Swiss MirageMover U",
+        "categoria": "Casual",
+        "descricao": "Calçado casual da marca K-Swiss, modelo MirageMover, versão unisex.",
+        "desconto": 0,
+        "precoAntes": 800,
+        "precoDepois": 800.0,
+        "ativo": true
+    },
+    {
+        "nome": "K-Swiss ZenStride F",
+        "categoria": "Casual",
+        "descricao": "Calçado casual da marca K-Swiss, modelo ZenStride, versão feminina.",
+        "desconto": 10,
+        "precoAntes": 1175,
+        "precoDepois": 1057.5,
+        "ativo": true
+    },
+    {
+        "nome": "Adiddas EclipseRunner F",
+        "categoria": "Corrida",
+        "descricao": "Calçado corrida da marca Adiddas, modelo EclipseRunner, versão feminina.",
+        "desconto": 25,
+        "precoAntes": 200,
+        "precoDepois": 150.0,
+        "ativo": true
+    },
+    {
+        "nome": "Adiddas SummitCrest M",
+        "categoria": "Casual",
+        "descricao": "Calçado casual da marca Adiddas, modelo SummitCrest, versão masculina.",
+        "desconto": 0,
+        "precoAntes": 725,
+        "precoDepois": 725.0,
+        "ativo": true
+    },
+    {
+        "nome": "K-Swiss InfinityInch M",
+        "categoria": "Utilitário",
+        "descricao": "Calçado utilitário da marca K-Swiss, modelo InfinityInch, versão masculina.",
+        "desconto": 0,
+        "precoAntes": 550,
+        "precoDepois": 550.0,
+        "ativo": true
+    },
+    {
+        "nome": "Puma MysticMove U",
+        "categoria": "Casual",
+        "descricao": "Calçado casual da marca Puma, modelo MysticMove, versão unisex.",
+        "desconto": 30,
+        "precoAntes": 200,
+        "precoDepois": 140.0,
+        "ativo": true
+    },
+    {
+        "nome": "Nike OceanGlide U",
+        "categoria": "Utilitário",
+        "descricao": "Calçado utilitário da marca Nike, modelo OceanGlide, versão unisex.",
+        "desconto": 30,
+        "precoAntes": 825,
+        "precoDepois": 577.5,
+        "ativo": true
+    },
+    {
+        "nome": "K-Swiss SpiritStride U",
+        "categoria": "Esporte e lazer",
+        "descricao": "Calçado esporte e lazer da marca K-Swiss, modelo SpiritStride, versão unisex.",
+        "desconto": 40,
+        "precoAntes": 775,
+        "precoDepois": 465.0,
+        "ativo": true
+    },
+    {
+        "nome": "Nike CosmosCruise F",
+        "categoria": "Casual",
+        "descricao": "Calçado casual da marca Nike, modelo CosmosCruise, versão feminina.",
+        "desconto": 35,
+        "precoAntes": 275,
+        "precoDepois": 178.75,
+        "ativo": false
+    },
+    {
+        "nome": "Adiddas RapidDash F",
+        "categoria": "Corrida",
+        "descricao": "Calçado corrida da marca Adiddas, modelo RapidDash, versão feminina.",
+        "desconto": 30,
+        "precoAntes": 450,
+        "precoDepois": 315.0,
+        "ativo": true
+    },
+    {
+        "nome": "Kichute BreezeBound F",
+        "categoria": "Esporte e lazer",
+        "descricao": "Calçado esporte e lazer da marca Kichute, modelo BreezeBound, versão feminina.",
+        "desconto": 5,
+        "precoAntes": 1075,
+        "precoDepois": 1021.25,
+        "ativo": true
+    },
+    {
+        "nome": "Puma NebulaNavigate F",
+        "categoria": "Casual",
+        "descricao": "Calçado casual da marca Puma, modelo NebulaNavigate, versão feminina.",
+        "desconto": 15,
+        "precoAntes": 1100,
+        "precoDepois": 935.0,
+        "ativo": true
+    },
+    {
+        "nome": "Puma CobaltCruise M",
+        "categoria": "Esporte e lazer",
+        "descricao": "Calçado esporte e lazer da marca Puma, modelo CobaltCruise, versão masculina.",
+        "desconto": 20,
+        "precoAntes": 1025,
+        "precoDepois": 820.0,
+        "ativo": true
+    },
+    {
+        "nome": "K-Swiss SummitCrest M",
+        "categoria": "Casual",
+        "descricao": "Calçado casual da marca K-Swiss, modelo SummitCrest, versão masculina.",
+        "desconto": 15,
+        "precoAntes": 275,
+        "precoDepois": 233.75,
+        "ativo": true
+    },
+    {
+        "nome": "Nike TerraBound M",
+        "categoria": "Casual",
+        "descricao": "Calçado casual da marca Nike, modelo TerraBound, versão masculina.",
+        "desconto": 25,
+        "precoAntes": 725,
+        "precoDepois": 543.75,
+        "ativo": false
+    },
+    {
+        "nome": "Adiddas EclipseRunner U",
+        "categoria": "Corrida",
+        "descricao": "Calçado corrida da marca Adiddas, modelo EclipseRunner, versão unisex.",
+        "desconto": 30,
+        "precoAntes": 950,
+        "precoDepois": 665.0,
+        "ativo": true
+    },
+    {
+        "nome": "Puma AquaMover U",
+        "categoria": "Utilitário",
+        "descricao": "Calçado utilitário da marca Puma, modelo AquaMover, versão unisex.",
+        "desconto": 0,
+        "precoAntes": 225,
+        "precoDepois": 225.0,
+        "ativo": true
+    },
+    {
+        "nome": "K-Swiss SparkSprint U",
+        "categoria": "Esporte e lazer",
+        "descricao": "Calçado esporte e lazer da marca K-Swiss, modelo SparkSprint, versão unisex.",
+        "desconto": 15,
+        "precoAntes": 975,
+        "precoDepois": 828.75,
+        "ativo": true
+    },
+    {
+        "nome": "Adiddas StarStep M",
+        "categoria": "Esporte e lazer",
+        "descricao": "Calçado esporte e lazer da marca Adiddas, modelo StarStep, versão masculina.",
+        "desconto": 5,
+        "precoAntes": 325,
+        "precoDepois": 308.75,
+        "ativo": false
+    },
+    {
+        "nome": "Nike CloudClimb M",
+        "categoria": "Esporte e lazer",
+        "descricao": "Calçado esporte e lazer da marca Nike, modelo CloudClimb, versão masculina.",
+        "desconto": 5,
+        "precoAntes": 700,
+        "precoDepois": 665.0,
+        "ativo": true
+    },
+    {
+        "nome": "K-Swiss BlazeBound U",
+        "categoria": "Utilitário",
+        "descricao": "Calçado utilitário da marca K-Swiss, modelo BlazeBound, versão unisex.",
+        "desconto": 10,
+        "precoAntes": 600,
+        "precoDepois": 540.0,
+        "ativo": false
+    },
+    {
+        "nome": "K-Swiss SlickStep F",
+        "categoria": "Corrida",
+        "descricao": "Calçado corrida da marca K-Swiss, modelo SlickStep, versão feminina.",
+        "desconto": 15,
+        "precoAntes": 400,
+        "precoDepois": 340.0,
+        "ativo": true
+    },
+    {
+        "nome": "Nike InfinityInch F",
+        "categoria": "Casual",
+        "descricao": "Calçado casual da marca Nike, modelo InfinityInch, versão feminina.",
+        "desconto": 5,
+        "precoAntes": 975,
+        "precoDepois": 926.25,
+        "ativo": true
+    },
+    {
+        "nome": "Kichute RapidDash F",
+        "categoria": "Corrida",
+        "descricao": "Calçado corrida da marca Kichute, modelo RapidDash, versão feminina.",
+        "desconto": 25,
+        "precoAntes": 500,
+        "precoDepois": 375.0,
+        "ativo": true
+    },
+    {
+        "nome": "Adiddas SparkSprint F",
+        "categoria": "Utilitário",
+        "descricao": "Calçado utilitário da marca Adiddas, modelo SparkSprint, versão feminina.",
+        "desconto": 30,
+        "precoAntes": 1075,
+        "precoDepois": 752.5,
+        "ativo": true
+    },
+    {
+        "nome": "Adiddas MatrixMarch U",
+        "categoria": "Corrida",
+        "descricao": "Calçado corrida da marca Adiddas, modelo MatrixMarch, versão unisex.",
+        "desconto": 25,
+        "precoAntes": 500,
+        "precoDepois": 375.0,
+        "ativo": true
+    },
+    {
+        "nome": "Nike CloudClimb M",
+        "categoria": "Utilitário",
+        "descricao": "Calçado utilitário da marca Nike, modelo CloudClimb, versão masculina.",
+        "desconto": 10,
+        "precoAntes": 925,
+        "precoDepois": 832.5,
+        "ativo": true
+    },
+    {
+        "nome": "Kichute RapidDash F",
+        "categoria": "Utilitário",
+        "descricao": "Calçado utilitário da marca Kichute, modelo RapidDash, versão feminina.",
+        "desconto": 15,
+        "precoAntes": 200,
+        "precoDepois": 170.0,
+        "ativo": true
+    },
+    {
+        "nome": "Nike QuantumQuest M",
+        "categoria": "Casual",
+        "descricao": "Calçado casual da marca Nike, modelo QuantumQuest, versão masculina.",
+        "desconto": 0,
+        "precoAntes": 800,
+        "precoDepois": 800.0,
+        "ativo": true
+    },
+    {
+        "nome": "Kichute CloudClimb U",
+        "categoria": "Esporte e lazer",
+        "descricao": "Calçado esporte e lazer da marca Kichute, modelo CloudClimb, versão unisex.",
+        "desconto": 30,
+        "precoAntes": 200,
+        "precoDepois": 140.0,
+        "ativo": true
+    },
+    {
+        "nome": "Nike MatrixMarch M",
+        "categoria": "Esporte e lazer",
+        "descricao": "Calçado esporte e lazer da marca Nike, modelo MatrixMarch, versão masculina.",
+        "desconto": 5,
+        "precoAntes": 750,
+        "precoDepois": 712.5,
+        "ativo": false
+    },
+    {
+        "nome": "Nike GalaxyGait U",
+        "categoria": "Esporte e lazer",
+        "descricao": "Calçado esporte e lazer da marca Nike, modelo GalaxyGait, versão unisex.",
+        "desconto": 5,
+        "precoAntes": 275,
+        "precoDepois": 261.25,
+        "ativo": true
+    },
+    {
+        "nome": "Adiddas RhythmRover U",
+        "categoria": "Utilitário",
+        "descricao": "Calçado utilitário da marca Adiddas, modelo RhythmRover, versão unisex.",
+        "desconto": 25,
+        "precoAntes": 775,
+        "precoDepois": 581.25,
+        "ativo": true
+    },
+    {
+        "nome": "K-Swiss SolarSprint M",
+        "categoria": "Corrida",
+        "descricao": "Calçado corrida da marca K-Swiss, modelo SolarSprint, versão masculina.",
+        "desconto": 10,
+        "precoAntes": 575,
+        "precoDepois": 517.5,
+        "ativo": true
+    },
+    {
+        "nome": "Adiddas VortexVoyage U",
+        "categoria": "Esporte e lazer",
+        "descricao": "Calçado esporte e lazer da marca Adiddas, modelo VortexVoyage, versão unisex.",
+        "desconto": 5,
+        "precoAntes": 900,
+        "precoDepois": 855.0,
+        "ativo": true
+    },
+    {
+        "nome": "Kichute InfinityInch M",
+        "categoria": "Casual",
+        "descricao": "Calçado casual da marca Kichute, modelo InfinityInch, versão masculina.",
+        "desconto": 40,
+        "precoAntes": 400,
+        "precoDepois": 240.0,
+        "ativo": false
+    },
+    {
+        "nome": "Adiddas StarStep M",
+        "categoria": "Utilitário",
+        "descricao": "Calçado utilitário da marca Adiddas, modelo StarStep, versão masculina.",
+        "desconto": 40,
+        "precoAntes": 275,
+        "precoDepois": 165.0,
+        "ativo": true
+    },
+    {
+        "nome": "K-Swiss VelvetJump F",
+        "categoria": "Casual",
+        "descricao": "Calçado casual da marca K-Swiss, modelo VelvetJump, versão feminina.",
+        "desconto": 20,
+        "precoAntes": 825,
+        "precoDepois": 660.0,
+        "ativo": true
+    },
+    {
+        "nome": "Kichute ApexAmble F",
+        "categoria": "Casual",
+        "descricao": "Calçado casual da marca Kichute, modelo ApexAmble, versão feminina.",
+        "desconto": 5,
+        "precoAntes": 225,
+        "precoDepois": 213.75,
+        "ativo": true
+    },
+    {
+        "nome": "Kichute RebelRoam U",
+        "categoria": "Casual",
+        "descricao": "Calçado casual da marca Kichute, modelo RebelRoam, versão unisex.",
+        "desconto": 35,
+        "precoAntes": 1125,
+        "precoDepois": 731.25,
+        "ativo": true
+    },
+    {
+        "nome": "Nike CobaltCruise U",
+        "categoria": "Casual",
+        "descricao": "Calçado casual da marca Nike, modelo CobaltCruise, versão unisex.",
+        "desconto": 0,
+        "precoAntes": 850,
+        "precoDepois": 850.0,
+        "ativo": true
+    },
+    {
+        "nome": "Nike NebulaNavigate F",
+        "categoria": "Esporte e lazer",
+        "descricao": "Calçado esporte e lazer da marca Nike, modelo NebulaNavigate, versão feminina.",
+        "desconto": 40,
+        "precoAntes": 675,
+        "precoDepois": 405.0,
+        "ativo": true
+    },
+    {
+        "nome": "Nike PegasusFlyer U",
+        "categoria": "Corrida",
+        "descricao": "Calçado corrida da marca Nike, modelo PegasusFlyer, versão unisex.",
+        "desconto": 15,
+        "precoAntes": 150,
+        "precoDepois": 127.5,
+        "ativo": false
+    },
+    {
+        "nome": "K-Swiss ApexAmble U",
+        "categoria": "Esporte e lazer",
+        "descricao": "Calçado esporte e lazer da marca K-Swiss, modelo ApexAmble, versão unisex.",
+        "desconto": 35,
+        "precoAntes": 450,
+        "precoDepois": 292.5,
+        "ativo": true
+    },
+    {
+        "nome": "Kichute CloudClimb F",
+        "categoria": "Esporte e lazer",
+        "descricao": "Calçado esporte e lazer da marca Kichute, modelo CloudClimb, versão feminina.",
+        "desconto": 40,
+        "precoAntes": 900,
+        "precoDepois": 540.0,
+        "ativo": true
+    },
+    {
+        "nome": "Adiddas IronInch M",
+        "categoria": "Utilitário",
+        "descricao": "Calçado utilitário da marca Adiddas, modelo IronInch, versão masculina.",
+        "desconto": 35,
+        "precoAntes": 475,
+        "precoDepois": 308.75,
+        "ativo": true
+    },
+    {
+        "nome": "K-Swiss PulsePath U",
+        "categoria": "Utilitário",
+        "descricao": "Calçado utilitário da marca K-Swiss, modelo PulsePath, versão unisex.",
+        "desconto": 35,
+        "precoAntes": 725,
+        "precoDepois": 471.25,
+        "ativo": false
+    },
+    {
+        "nome": "Adiddas TerraBound U",
+        "categoria": "Esporte e lazer",
+        "descricao": "Calçado esporte e lazer da marca Adiddas, modelo TerraBound, versão unisex.",
+        "desconto": 10,
+        "precoAntes": 525,
+        "precoDepois": 472.5,
+        "ativo": true
+    },
+    {
+        "nome": "K-Swiss OceanGlide M",
+        "categoria": "Utilitário",
+        "descricao": "Calçado utilitário da marca K-Swiss, modelo OceanGlide, versão masculina.",
+        "desconto": 15,
+        "precoAntes": 450,
+        "precoDepois": 382.5,
+        "ativo": true
+    },
+    {
+        "nome": "Kichute SpiritStride M",
+        "categoria": "Corrida",
+        "descricao": "Calçado corrida da marca Kichute, modelo SpiritStride, versão masculina.",
+        "desconto": 0,
+        "precoAntes": 325,
+        "precoDepois": 325.0,
+        "ativo": true
+    },
+    {
+        "nome": "Adiddas ThunderThrust M",
+        "categoria": "Esporte e lazer",
+        "descricao": "Calçado esporte e lazer da marca Adiddas, modelo ThunderThrust, versão masculina.",
+        "desconto": 10,
+        "precoAntes": 375,
+        "precoDepois": 337.5,
+        "ativo": false
+    },
+    {
+        "nome": "K-Swiss SerenityStep U",
+        "categoria": "Casual",
+        "descricao": "Calçado casual da marca K-Swiss, modelo SerenityStep, versão unisex.",
+        "desconto": 30,
+        "precoAntes": 1050,
+        "precoDepois": 735.0,
+        "ativo": true
+    },
+    {
+        "nome": "Kichute RebelRoam M",
+        "categoria": "Casual",
+        "descricao": "Calçado casual da marca Kichute, modelo RebelRoam, versão masculina.",
+        "desconto": 20,
+        "precoAntes": 175,
+        "precoDepois": 140.0,
+        "ativo": true
+    },
+    {
+        "nome": "Nike MirageMover U",
+        "categoria": "Casual",
+        "descricao": "Calçado casual da marca Nike, modelo MirageMover, versão unisex.",
+        "desconto": 30,
+        "precoAntes": 575,
+        "precoDepois": 402.5,
+        "ativo": true
+    },
+    {
+        "nome": "Puma PulsePath M",
+        "categoria": "Corrida",
+        "descricao": "Calçado corrida da marca Puma, modelo PulsePath, versão masculina.",
+        "desconto": 25,
+        "precoAntes": 775,
+        "precoDepois": 581.25,
+        "ativo": true
+    },
+    {
+        "nome": "Puma CosmosCruise M",
+        "categoria": "Esporte e lazer",
+        "descricao": "Calçado esporte e lazer da marca Puma, modelo CosmosCruise, versão masculina.",
+        "desconto": 35,
+        "precoAntes": 425,
+        "precoDepois": 276.25,
+        "ativo": true
+    },
+    {
+        "nome": "K-Swiss RebelRoam F",
+        "categoria": "Corrida",
+        "descricao": "Calçado corrida da marca K-Swiss, modelo RebelRoam, versão feminina.",
+        "desconto": 40,
+        "precoAntes": 1100,
+        "precoDepois": 660.0,
+        "ativo": true
+    },
+    {
+        "nome": "Kichute SpiritStride U",
+        "categoria": "Utilitário",
+        "descricao": "Calçado utilitário da marca Kichute, modelo SpiritStride, versão unisex.",
+        "desconto": 5,
+        "precoAntes": 900,
+        "precoDepois": 855.0,
+        "ativo": true
+    },
+    {
+        "nome": "Nike ApexAmble F",
+        "categoria": "Esporte e lazer",
+        "descricao": "Calçado esporte e lazer da marca Nike, modelo ApexAmble, versão feminina.",
+        "desconto": 15,
+        "precoAntes": 425,
+        "precoDepois": 361.25,
+        "ativo": true
+    },
+    {
+        "nome": "Kichute BlazeBound F",
+        "categoria": "Corrida",
+        "descricao": "Calçado corrida da marca Kichute, modelo BlazeBound, versão feminina.",
+        "desconto": 15,
+        "precoAntes": 200,
+        "precoDepois": 170.0,
+        "ativo": false
+    },
+    {
+        "nome": "Kichute ThunderThrust F",
+        "categoria": "Utilitário",
+        "descricao": "Calçado utilitário da marca Kichute, modelo ThunderThrust, versão feminina.",
+        "desconto": 35,
+        "precoAntes": 475,
+        "precoDepois": 308.75,
+        "ativo": true
+    },
+    {
+        "nome": "Kichute LunarLeap F",
+        "categoria": "Utilitário",
+        "descricao": "Calçado utilitário da marca Kichute, modelo LunarLeap, versão feminina.",
+        "desconto": 5,
+        "precoAntes": 775,
+        "precoDepois": 736.25,
+        "ativo": true
+    },
+    {
+        "nome": "Kichute CobaltCruise F",
+        "categoria": "Utilitário",
+        "descricao": "Calçado utilitário da marca Kichute, modelo CobaltCruise, versão feminina.",
+        "desconto": 5,
+        "precoAntes": 650,
+        "precoDepois": 617.5,
+        "ativo": false
+    },
+    {
+        "nome": "Kichute SerenityStep F",
+        "categoria": "Utilitário",
+        "descricao": "Calçado utilitário da marca Kichute, modelo SerenityStep, versão feminina.",
+        "desconto": 5,
+        "precoAntes": 1025,
+        "precoDepois": 973.75,
+        "ativo": true
+    },
+    {
+        "nome": "Puma SummitCrest U",
+        "categoria": "Esporte e lazer",
+        "descricao": "Calçado esporte e lazer da marca Puma, modelo SummitCrest, versão unisex.",
+        "desconto": 25,
+        "precoAntes": 1075,
+        "precoDepois": 806.25,
+        "ativo": true
+    },
+    {
+        "nome": "K-Swiss HorizonHike M",
+        "categoria": "Esporte e lazer",
+        "descricao": "Calçado esporte e lazer da marca K-Swiss, modelo HorizonHike, versão masculina.",
+        "desconto": 40,
+        "precoAntes": 1075,
+        "precoDepois": 645.0,
+        "ativo": true
+    },
+    {
+        "nome": "Adiddas EclipseRunner M",
+        "categoria": "Casual",
+        "descricao": "Calçado casual da marca Adiddas, modelo EclipseRunner, versão masculina.",
+        "desconto": 10,
+        "precoAntes": 250,
+        "precoDepois": 225.0,
+        "ativo": true
+    },
+    {
+        "nome": "Kichute FlashFoot U",
+        "categoria": "Utilitário",
+        "descricao": "Calçado utilitário da marca Kichute, modelo FlashFoot, versão unisex.",
+        "desconto": 5,
+        "precoAntes": 975,
+        "precoDepois": 926.25,
+        "ativo": true
+    },
+    {
+        "nome": "Kichute InfinityInch M",
+        "categoria": "Esporte e lazer",
+        "descricao": "Calçado esporte e lazer da marca Kichute, modelo InfinityInch, versão masculina.",
+        "desconto": 15,
+        "precoAntes": 175,
+        "precoDepois": 148.75,
+        "ativo": true
+    },
+    {
+        "nome": "Nike GravityGlide F",
+        "categoria": "Corrida",
+        "descricao": "Calçado corrida da marca Nike, modelo GravityGlide, versão feminina.",
+        "desconto": 15,
+        "precoAntes": 825,
+        "precoDepois": 701.25,
+        "ativo": false
+    },
+    {
+        "nome": "Puma ZenStride M",
+        "categoria": "Utilitário",
+        "descricao": "Calçado utilitário da marca Puma, modelo ZenStride, versão masculina.",
+        "desconto": 0,
+        "precoAntes": 900,
+        "precoDepois": 900.0,
+        "ativo": true
+    },
+    {
+        "nome": "K-Swiss SlickStep M",
+        "categoria": "Esporte e lazer",
+        "descricao": "Calçado esporte e lazer da marca K-Swiss, modelo SlickStep, versão masculina.",
+        "desconto": 15,
+        "precoAntes": 725,
+        "precoDepois": 616.25,
+        "ativo": true
+    },
+    {
+        "nome": "Adiddas BreezeBound U",
+        "categoria": "Casual",
+        "descricao": "Calçado casual da marca Adiddas, modelo BreezeBound, versão unisex.",
+        "desconto": 20,
+        "precoAntes": 700,
+        "precoDepois": 560.0,
+        "ativo": true
+    },
+    {
+        "nome": "Adiddas AeroAmble M",
+        "categoria": "Casual",
+        "descricao": "Calçado casual da marca Adiddas, modelo AeroAmble, versão masculina.",
+        "desconto": 10,
+        "precoAntes": 675,
+        "precoDepois": 607.5,
+        "ativo": false
+    },
+    {
+        "nome": "K-Swiss SummitCrest U",
+        "categoria": "Utilitário",
+        "descricao": "Calçado utilitário da marca K-Swiss, modelo SummitCrest, versão unisex.",
+        "desconto": 25,
+        "precoAntes": 300,
+        "precoDepois": 225.0,
+        "ativo": true
+    },
+    {
+        "nome": "Nike SlickStep M",
+        "categoria": "Utilitário",
+        "descricao": "Calçado utilitário da marca Nike, modelo SlickStep, versão masculina.",
+        "desconto": 40,
+        "precoAntes": 750,
+        "precoDepois": 450.0,
+        "ativo": false
+    },
+    {
+        "nome": "Kichute AeroAmble U",
+        "categoria": "Casual",
+        "descricao": "Calçado casual da marca Kichute, modelo AeroAmble, versão unisex.",
+        "desconto": 20,
+        "precoAntes": 425,
+        "precoDepois": 340.0,
+        "ativo": true
+    },
+    {
+        "nome": "Nike StarStep M",
+        "categoria": "Casual",
+        "descricao": "Calçado casual da marca Nike, modelo StarStep, versão masculina.",
+        "desconto": 35,
+        "precoAntes": 575,
+        "precoDepois": 373.75,
+        "ativo": true
+    },
+    {
+        "nome": "Puma SerenityStep M",
+        "categoria": "Esporte e lazer",
+        "descricao": "Calçado esporte e lazer da marca Puma, modelo SerenityStep, versão masculina.",
+        "desconto": 5,
+        "precoAntes": 400,
+        "precoDepois": 380.0,
+        "ativo": true
+    },
+    {
+        "nome": "Puma TwilightTrot U",
+        "categoria": "Esporte e lazer",
+        "descricao": "Calçado esporte e lazer da marca Puma, modelo TwilightTrot, versão unisex.",
+        "desconto": 5,
+        "precoAntes": 300,
+        "precoDepois": 285.0,
+        "ativo": true
+    },
+    {
+        "nome": "Puma BreezeBound F",
+        "categoria": "Esporte e lazer",
+        "descricao": "Calçado esporte e lazer da marca Puma, modelo BreezeBound, versão feminina.",
+        "desconto": 15,
+        "precoAntes": 1150,
+        "precoDepois": 977.5,
+        "ativo": false
+    },
+    {
+        "nome": "Puma QuantumQuest U",
+        "categoria": "Casual",
+        "descricao": "Calçado casual da marca Puma, modelo QuantumQuest, versão unisex.",
+        "desconto": 20,
+        "precoAntes": 1075,
+        "precoDepois": 860.0,
+        "ativo": true
+    },
+    {
+        "nome": "Puma ZenStride U",
+        "categoria": "Utilitário",
+        "descricao": "Calçado utilitário da marca Puma, modelo ZenStride, versão unisex.",
+        "desconto": 40,
+        "precoAntes": 850,
+        "precoDepois": 510.0,
+        "ativo": true
+    },
+    {
+        "nome": "Puma ThunderThrust M",
+        "categoria": "Utilitário",
+        "descricao": "Calçado utilitário da marca Puma, modelo ThunderThrust, versão masculina.",
+        "desconto": 0,
+        "precoAntes": 650,
+        "precoDepois": 650.0,
+        "ativo": true
+    },
+    {
+        "nome": "Nike CloudClimb M",
+        "categoria": "Utilitário",
+        "descricao": "Calçado utilitário da marca Nike, modelo CloudClimb, versão masculina.",
+        "desconto": 30,
+        "precoAntes": 450,
+        "precoDepois": 315.0,
+        "ativo": true
+    },
+    {
+        "nome": "K-Swiss CometCruise M",
+        "categoria": "Casual",
+        "descricao": "Calçado casual da marca K-Swiss, modelo CometCruise, versão masculina.",
+        "desconto": 5,
+        "precoAntes": 275,
+        "precoDepois": 261.25,
+        "ativo": true
+    },
+    {
+        "nome": "Nike AstroWalk F",
+        "categoria": "Casual",
+        "descricao": "Calçado casual da marca Nike, modelo AstroWalk, versão feminina.",
+        "desconto": 20,
+        "precoAntes": 700,
+        "precoDepois": 560.0,
+        "ativo": true
+    },
+    {
+        "nome": "Adiddas DreamDrift F",
+        "categoria": "Esporte e lazer",
+        "descricao": "Calçado esporte e lazer da marca Adiddas, modelo DreamDrift, versão feminina.",
+        "desconto": 35,
+        "precoAntes": 200,
+        "precoDepois": 130.0,
+        "ativo": false
+    },
+    {
+        "nome": "Nike RapidDash F",
+        "categoria": "Utilitário",
+        "descricao": "Calçado utilitário da marca Nike, modelo RapidDash, versão feminina.",
+        "desconto": 25,
+        "precoAntes": 675,
+        "precoDepois": 506.25,
+        "ativo": true
+    },
+    {
+        "nome": "Puma AquaMover F",
+        "categoria": "Casual",
+        "descricao": "Calçado casual da marca Puma, modelo AquaMover, versão feminina.",
+        "desconto": 30,
+        "precoAntes": 1150,
+        "precoDepois": 805.0,
+        "ativo": true
+    },
+    {
+        "nome": "Puma PulsePath M",
+        "categoria": "Esporte e lazer",
+        "descricao": "Calçado esporte e lazer da marca Puma, modelo PulsePath, versão masculina.",
+        "desconto": 20,
+        "precoAntes": 425,
+        "precoDepois": 340.0,
+        "ativo": true
+    },
+    {
+        "nome": "K-Swiss VelvetJump U",
+        "categoria": "Casual",
+        "descricao": "Calçado casual da marca K-Swiss, modelo VelvetJump, versão unisex.",
+        "desconto": 35,
+        "precoAntes": 675,
+        "precoDepois": 438.75,
+        "ativo": true
+    },
+    {
+        "nome": "K-Swiss TerraBound M",
+        "categoria": "Casual",
+        "descricao": "Calçado casual da marca K-Swiss, modelo TerraBound, versão masculina.",
+        "desconto": 5,
+        "precoAntes": 475,
+        "precoDepois": 451.25,
+        "ativo": true
+    },
+    {
+        "nome": "K-Swiss NebulaNavigate U",
+        "categoria": "Corrida",
+        "descricao": "Calçado corrida da marca K-Swiss, modelo NebulaNavigate, versão unisex.",
+        "desconto": 20,
+        "precoAntes": 650,
+        "precoDepois": 520.0,
+        "ativo": true
+    },
+    {
+        "nome": "Kichute NatureTrek M",
+        "categoria": "Utilitário",
+        "descricao": "Calçado utilitário da marca Kichute, modelo NatureTrek, versão masculina.",
+        "desconto": 40,
+        "precoAntes": 850,
+        "precoDepois": 510.0,
+        "ativo": true
+    },
+    {
+        "nome": "Nike RebelRoam U",
+        "categoria": "Corrida",
+        "descricao": "Calçado corrida da marca Nike, modelo RebelRoam, versão unisex.",
+        "desconto": 5,
+        "precoAntes": 1000,
+        "precoDepois": 950.0,
+        "ativo": false
+    },
+    {
+        "nome": "Nike SummitCrest U",
+        "categoria": "Utilitário",
+        "descricao": "Calçado utilitário da marca Nike, modelo SummitCrest, versão unisex.",
+        "desconto": 15,
+        "precoAntes": 250,
+        "precoDepois": 212.5,
+        "ativo": true
+    },
+    {
+        "nome": "Puma SpiritStride U",
+        "categoria": "Corrida",
+        "descricao": "Calçado corrida da marca Puma, modelo SpiritStride, versão unisex.",
+        "desconto": 30,
+        "precoAntes": 400,
+        "precoDepois": 280.0,
+        "ativo": true
+    },
+    {
+        "nome": "Puma ZenStride M",
+        "categoria": "Casual",
+        "descricao": "Calçado casual da marca Puma, modelo ZenStride, versão masculina.",
+        "desconto": 30,
+        "precoAntes": 1150,
+        "precoDepois": 805.0,
+        "ativo": true
+    },
+    {
+        "nome": "Adiddas UrbanStride F",
+        "categoria": "Casual",
+        "descricao": "Calçado casual da marca Adiddas, modelo UrbanStride, versão feminina.",
+        "desconto": 15,
+        "precoAntes": 750,
+        "precoDepois": 637.5,
+        "ativo": false
+    },
+    {
+        "nome": "Puma HorizonHike F",
+        "categoria": "Utilitário",
+        "descricao": "Calçado utilitário da marca Puma, modelo HorizonHike, versão feminina.",
+        "desconto": 25,
+        "precoAntes": 975,
+        "precoDepois": 731.25,
+        "ativo": true
+    },
+    {
+        "nome": "Adiddas SpiritStride M",
+        "categoria": "Esporte e lazer",
+        "descricao": "Calçado esporte e lazer da marca Adiddas, modelo SpiritStride, versão masculina.",
+        "desconto": 15,
+        "precoAntes": 1125,
+        "precoDepois": 956.25,
+        "ativo": true
+    },
+    {
+        "nome": "Adiddas RadiantRamble F",
+        "categoria": "Casual",
+        "descricao": "Calçado casual da marca Adiddas, modelo RadiantRamble, versão feminina.",
+        "desconto": 25,
+        "precoAntes": 375,
+        "precoDepois": 281.25,
+        "ativo": true
+    },
+    {
+        "nome": "Kichute GalaxyGait F",
+        "categoria": "Corrida",
+        "descricao": "Calçado corrida da marca Kichute, modelo GalaxyGait, versão feminina.",
+        "desconto": 10,
+        "precoAntes": 650,
+        "precoDepois": 585.0,
+        "ativo": true
+    },
+    {
+        "nome": "K-Swiss VelvetJump U",
+        "categoria": "Corrida",
+        "descricao": "Calçado corrida da marca K-Swiss, modelo VelvetJump, versão unisex.",
+        "desconto": 25,
+        "precoAntes": 850,
+        "precoDepois": 637.5,
+        "ativo": true
+    },
+    {
+        "nome": "Puma LunarLeap U",
+        "categoria": "Casual",
+        "descricao": "Calçado casual da marca Puma, modelo LunarLeap, versão unisex.",
+        "desconto": 30,
+        "precoAntes": 350,
+        "precoDepois": 245.0,
+        "ativo": true
+    },
+    {
+        "nome": "Puma ZenStride U",
+        "categoria": "Esporte e lazer",
+        "descricao": "Calçado esporte e lazer da marca Puma, modelo ZenStride, versão unisex.",
+        "desconto": 15,
+        "precoAntes": 525,
+        "precoDepois": 446.25,
+        "ativo": true
+    },
+    {
+        "nome": "Kichute MatrixMarch U",
+        "categoria": "Corrida",
+        "descricao": "Calçado corrida da marca Kichute, modelo MatrixMarch, versão unisex.",
+        "desconto": 10,
+        "precoAntes": 800,
+        "precoDepois": 720.0,
+        "ativo": false
+    },
+    {
+        "nome": "Nike PulsePath F",
+        "categoria": "Esporte e lazer",
+        "descricao": "Calçado esporte e lazer da marca Nike, modelo PulsePath, versão feminina.",
+        "desconto": 25,
+        "precoAntes": 600,
+        "precoDepois": 450.0,
+        "ativo": true
+    },
+    {
+        "nome": "Kichute SlickStep F",
+        "categoria": "Corrida",
+        "descricao": "Calçado corrida da marca Kichute, modelo SlickStep, versão feminina.",
+        "desconto": 0,
+        "precoAntes": 825,
+        "precoDepois": 825.0,
+        "ativo": true
+    },
+    {
+        "nome": "K-Swiss ThunderThrust U",
+        "categoria": "Corrida",
+        "descricao": "Calçado corrida da marca K-Swiss, modelo ThunderThrust, versão unisex.",
+        "desconto": 35,
+        "precoAntes": 675,
+        "precoDepois": 438.75,
+        "ativo": true
+    },
+    {
+        "nome": "Nike NebulaNavigate M",
+        "categoria": "Utilitário",
+        "descricao": "Calçado utilitário da marca Nike, modelo NebulaNavigate, versão masculina.",
+        "desconto": 10,
+        "precoAntes": 1150,
+        "precoDepois": 1035.0,
+        "ativo": true
+    },
+    {
+        "nome": "Nike AquaMover M",
+        "categoria": "Corrida",
+        "descricao": "Calçado corrida da marca Nike, modelo AquaMover, versão masculina.",
+        "desconto": 40,
+        "precoAntes": 600,
+        "precoDepois": 360.0,
+        "ativo": true
+    },
+    {
+        "nome": "K-Swiss ZenStride U",
+        "categoria": "Utilitário",
+        "descricao": "Calçado utilitário da marca K-Swiss, modelo ZenStride, versão unisex.",
+        "desconto": 20,
+        "precoAntes": 500,
+        "precoDepois": 400.0,
+        "ativo": false
+    },
+    {
+        "nome": "K-Swiss TwilightTrot F",
+        "categoria": "Utilitário",
+        "descricao": "Calçado utilitário da marca K-Swiss, modelo TwilightTrot, versão feminina.",
+        "desconto": 25,
+        "precoAntes": 375,
+        "precoDepois": 281.25,
+        "ativo": true
+    },
+    {
+        "nome": "Adiddas NebulaNavigate U",
+        "categoria": "Utilitário",
+        "descricao": "Calçado utilitário da marca Adiddas, modelo NebulaNavigate, versão unisex.",
+        "desconto": 25,
+        "precoAntes": 675,
+        "precoDepois": 506.25,
+        "ativo": true
+    },
+    {
+        "nome": "Nike CobaltCruise M",
+        "categoria": "Casual",
+        "descricao": "Calçado casual da marca Nike, modelo CobaltCruise, versão masculina.",
+        "desconto": 35,
+        "precoAntes": 575,
+        "precoDepois": 373.75,
+        "ativo": true
+    },
+    {
+        "nome": "Puma VortexVoyage U",
+        "categoria": "Casual",
+        "descricao": "Calçado casual da marca Puma, modelo VortexVoyage, versão unisex.",
+        "desconto": 15,
+        "precoAntes": 675,
+        "precoDepois": 573.75,
+        "ativo": true
+    },
+    {
+        "nome": "K-Swiss SolarSprint M",
+        "categoria": "Corrida",
+        "descricao": "Calçado corrida da marca K-Swiss, modelo SolarSprint, versão masculina.",
+        "desconto": 30,
+        "precoAntes": 500,
+        "precoDepois": 350.0,
+        "ativo": true
+    },
+    {
+        "nome": "K-Swiss BlazeBound U",
+        "categoria": "Esporte e lazer",
+        "descricao": "Calçado esporte e lazer da marca K-Swiss, modelo BlazeBound, versão unisex.",
+        "desconto": 10,
+        "precoAntes": 275,
+        "precoDepois": 247.5,
+        "ativo": false
+    },
+    {
+        "nome": "Puma PegasusFlyer U",
+        "categoria": "Corrida",
+        "descricao": "Calçado corrida da marca Puma, modelo PegasusFlyer, versão unisex.",
+        "desconto": 35,
+        "precoAntes": 200,
+        "precoDepois": 130.0,
+        "ativo": true
+    },
+    {
+        "nome": "Nike FlashFoot F",
+        "categoria": "Esporte e lazer",
+        "descricao": "Calçado esporte e lazer da marca Nike, modelo FlashFoot, versão feminina.",
+        "desconto": 30,
+        "precoAntes": 550,
+        "precoDepois": 385.0,
+        "ativo": true
+    },
+    {
+        "nome": "Kichute PulsePath U",
+        "categoria": "Corrida",
+        "descricao": "Calçado corrida da marca Kichute, modelo PulsePath, versão unisex.",
+        "desconto": 0,
+        "precoAntes": 400,
+        "precoDepois": 400.0,
+        "ativo": true
+    },
+    {
+        "nome": "K-Swiss HorizonHike F",
+        "categoria": "Casual",
+        "descricao": "Calçado casual da marca K-Swiss, modelo HorizonHike, versão feminina.",
+        "desconto": 0,
+        "precoAntes": 550,
+        "precoDepois": 550.0,
+        "ativo": true
+    },
+    {
+        "nome": "Kichute HorizonHike F",
+        "categoria": "Corrida",
+        "descricao": "Calçado corrida da marca Kichute, modelo HorizonHike, versão feminina.",
+        "desconto": 0,
+        "precoAntes": 975,
+        "precoDepois": 975.0,
+        "ativo": true
+    },
+    {
+        "nome": "Kichute QuantumQuest U",
+        "categoria": "Utilitário",
+        "descricao": "Calçado utilitário da marca Kichute, modelo QuantumQuest, versão unisex.",
+        "desconto": 30,
+        "precoAntes": 250,
+        "precoDepois": 175.0,
+        "ativo": false
+    },
+    {
+        "nome": "K-Swiss RhythmRover U",
+        "categoria": "Utilitário",
+        "descricao": "Calçado utilitário da marca K-Swiss, modelo RhythmRover, versão unisex.",
+        "desconto": 35,
+        "precoAntes": 350,
+        "precoDepois": 227.5,
+        "ativo": true
+    },
+    {
+        "nome": "Adiddas HorizonHike F",
+        "categoria": "Utilitário",
+        "descricao": "Calçado utilitário da marca Adiddas, modelo HorizonHike, versão feminina.",
+        "desconto": 10,
+        "precoAntes": 1075,
+        "precoDepois": 967.5,
+        "ativo": true
+    },
+    {
+        "nome": "K-Swiss NebulaNavigate F",
+        "categoria": "Utilitário",
+        "descricao": "Calçado utilitário da marca K-Swiss, modelo NebulaNavigate, versão feminina.",
+        "desconto": 10,
+        "precoAntes": 800,
+        "precoDepois": 720.0,
+        "ativo": true
+    },
+    {
+        "nome": "Puma TerraBound F",
+        "categoria": "Casual",
+        "descricao": "Calçado casual da marca Puma, modelo TerraBound, versão feminina.",
+        "desconto": 40,
+        "precoAntes": 650,
+        "precoDepois": 390.0,
+        "ativo": true
+    },
+    {
+        "nome": "Kichute PegasusFlyer U",
+        "categoria": "Esporte e lazer",
+        "descricao": "Calçado esporte e lazer da marca Kichute, modelo PegasusFlyer, versão unisex.",
+        "desconto": 40,
+        "precoAntes": 525,
+        "precoDepois": 315.0,
+        "ativo": true
+    },
+    {
+        "nome": "Puma EclipseRunner U",
+        "categoria": "Esporte e lazer",
+        "descricao": "Calçado esporte e lazer da marca Puma, modelo EclipseRunner, versão unisex.",
+        "desconto": 30,
+        "precoAntes": 775,
+        "precoDepois": 542.5,
+        "ativo": true
+    },
+    {
+        "nome": "Adiddas MatrixMarch M",
+        "categoria": "Utilitário",
+        "descricao": "Calçado utilitário da marca Adiddas, modelo MatrixMarch, versão masculina.",
+        "desconto": 5,
+        "precoAntes": 425,
+        "precoDepois": 403.75,
+        "ativo": true
+    },
+    {
+        "nome": "Nike InfinityInch F",
+        "categoria": "Corrida",
+        "descricao": "Calçado corrida da marca Nike, modelo InfinityInch, versão feminina.",
+        "desconto": 15,
+        "precoAntes": 1150,
+        "precoDepois": 977.5,
+        "ativo": true
+    },
+    {
+        "nome": "Kichute UrbanStride M",
+        "categoria": "Esporte e lazer",
+        "descricao": "Calçado esporte e lazer da marca Kichute, modelo UrbanStride, versão masculina.",
+        "desconto": 25,
+        "precoAntes": 1150,
+        "precoDepois": 862.5,
+        "ativo": true
+    },
+    {
+        "nome": "Adiddas OceanGlide M",
+        "categoria": "Esporte e lazer",
+        "descricao": "Calçado esporte e lazer da marca Adiddas, modelo OceanGlide, versão masculina.",
+        "desconto": 20,
+        "precoAntes": 1050,
+        "precoDepois": 840.0,
+        "ativo": true
+    },
+    {
+        "nome": "Kichute RebelRoam M",
+        "categoria": "Casual",
+        "descricao": "Calçado casual da marca Kichute, modelo RebelRoam, versão masculina.",
+        "desconto": 30,
+        "precoAntes": 275,
+        "precoDepois": 192.5,
+        "ativo": true
+    },
+    {
+        "nome": "Adiddas MysticMove U",
+        "categoria": "Esporte e lazer",
+        "descricao": "Calçado esporte e lazer da marca Adiddas, modelo MysticMove, versão unisex.",
+        "desconto": 25,
+        "precoAntes": 700,
+        "precoDepois": 525.0,
+        "ativo": true
+    },
+    {
+        "nome": "K-Swiss StarStep F",
+        "categoria": "Corrida",
+        "descricao": "Calçado corrida da marca K-Swiss, modelo StarStep, versão feminina.",
+        "desconto": 20,
+        "precoAntes": 700,
+        "precoDepois": 560.0,
+        "ativo": true
+    },
+    {
+        "nome": "Kichute StarStep F",
+        "categoria": "Corrida",
+        "descricao": "Calçado corrida da marca Kichute, modelo StarStep, versão feminina.",
+        "desconto": 15,
+        "precoAntes": 375,
+        "precoDepois": 318.75,
+        "ativo": true
+    },
+    {
+        "nome": "Nike MysticMove U",
+        "categoria": "Esporte e lazer",
+        "descricao": "Calçado esporte e lazer da marca Nike, modelo MysticMove, versão unisex.",
+        "desconto": 5,
+        "precoAntes": 1000,
+        "precoDepois": 950.0,
+        "ativo": true
+    },
+    {
+        "nome": "Puma InfinityInch F",
+        "categoria": "Utilitário",
+        "descricao": "Calçado utilitário da marca Puma, modelo InfinityInch, versão feminina.",
+        "desconto": 15,
+        "precoAntes": 775,
+        "precoDepois": 658.75,
+        "ativo": true
+    },
+    {
+        "nome": "Adiddas StarStep F",
+        "categoria": "Corrida",
+        "descricao": "Calçado corrida da marca Adiddas, modelo StarStep, versão feminina.",
+        "desconto": 20,
+        "precoAntes": 775,
+        "precoDepois": 620.0,
+        "ativo": true
+    },
+    {
+        "nome": "Adiddas StarStep M",
+        "categoria": "Utilitário",
+        "descricao": "Calçado utilitário da marca Adiddas, modelo StarStep, versão masculina.",
+        "desconto": 0,
+        "precoAntes": 350,
+        "precoDepois": 350.0,
+        "ativo": true
+    },
+    {
+        "nome": "Puma LunarLeap M",
+        "categoria": "Utilitário",
+        "descricao": "Calçado utilitário da marca Puma, modelo LunarLeap, versão masculina.",
+        "desconto": 5,
+        "precoAntes": 550,
+        "precoDepois": 522.5,
+        "ativo": true
+    },
+    {
+        "nome": "K-Swiss ZenStride U",
+        "categoria": "Utilitário",
+        "descricao": "Calçado utilitário da marca K-Swiss, modelo ZenStride, versão unisex.",
+        "desconto": 30,
+        "precoAntes": 1125,
+        "precoDepois": 787.5,
+        "ativo": true
+    },
+    {
+        "nome": "Kichute BreezeBound F",
+        "categoria": "Esporte e lazer",
+        "descricao": "Calçado esporte e lazer da marca Kichute, modelo BreezeBound, versão feminina.",
+        "desconto": 20,
+        "precoAntes": 750,
+        "precoDepois": 600.0,
+        "ativo": false
+    },
+    {
+        "nome": "Adiddas SpiritStride U",
+        "categoria": "Casual",
+        "descricao": "Calçado casual da marca Adiddas, modelo SpiritStride, versão unisex.",
+        "desconto": 35,
+        "precoAntes": 1025,
+        "precoDepois": 666.25,
+        "ativo": true
+    },
+    {
+        "nome": "Nike ApexAmble F",
+        "categoria": "Corrida",
+        "descricao": "Calçado corrida da marca Nike, modelo ApexAmble, versão feminina.",
+        "desconto": 20,
+        "precoAntes": 250,
+        "precoDepois": 200.0,
+        "ativo": true
+    }
+]
