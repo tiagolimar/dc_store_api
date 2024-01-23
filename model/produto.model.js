@@ -6,6 +6,12 @@ export const produtoModel = connection => {
             type: DataTypes.STRING,
             allowNull: false
         },
+        marca:{
+            type: DataTypes.STRING
+        },
+        genero:{
+            type: DataTypes.STRING
+        },
         categoria:{
             type: DataTypes.STRING
         },

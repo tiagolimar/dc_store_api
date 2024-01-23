@@ -69,8 +69,8 @@ categorias = [
 ]
 
 generos = [
-    "Masculina",
-    "Feminina",
+    "Masculino",
+    "Feminino",
     "Unisex"
 ]
 
@@ -94,6 +94,8 @@ def gerar_produto():
 
     produto = {
         "nome": nome,
+        "marca":marca,
+        "genero":genero,
         "categoria": categoria,
         "descricao": descricao,
         "desconto": desconto,
